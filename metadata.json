@@ -1,0 +1,6 @@
+{
+  "name": "Aesthetic Tangua",
+  "description": "Premium houseboat booking, curated photo gallery, and comprehensive local travel guide for Tanguar Haor, Sunamganj,Sylhet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
